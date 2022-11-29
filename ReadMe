@@ -1,0 +1,5 @@
+Hello;
+I put the test cases into the testCase&API folder,
+and added the results of the api test by taking a screen shot.
+the UI automation test sometimes gives an error I think because of synchronization problem
+on the site with my internet speed.
